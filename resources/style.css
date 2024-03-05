@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.detector {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.balance {
+    width: min-content;
+}
+
+.balanceDiv {
+    display: flex;
+    align-items: center;
+}
+
+.balanceDiv input, .balanceDiv p {
+    margin-left: 10px;
+}

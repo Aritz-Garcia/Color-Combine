@@ -31,7 +31,8 @@
       "color-combine": [
         {
           "id": "color-combine",
-          "name": "Color Combine"
+          "name": "Color Combine",
+          "type": "webview"
         }
       ]
     }
