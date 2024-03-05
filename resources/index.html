@@ -1,0 +1,45 @@
+<!-- Selector de colores -->
+<!-- <link rel="stylesheet" href="style.css">
+<script src="script.js"></script> -->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Primer color</h1>
+                <div class="balanceDiv">
+                    <input type="color" value="#ff0000" id="colorUno" class="detector" oninput="cambiar()" />
+                    <p id="colorUnoP"></p>
+                </div>
+    
+                <h1>Segundo color</h1>
+                <div class="balanceDiv">
+                    <input type="color" value="#000000" id="colorDos" class="detector" oninput="cambiar()" />
+                    <p id="colorDosP"></p>
+                </div>
+    
+                <h1>Balance</h1>
+                <div class="balanceDiv">
+                    <input type="range" min="0" max="100" value="50" class="detector" id="balance" oninput="cambiarBalance(this.value)" />
+                    <input type="number" min="0" max="100" value="50" name="balance" id="balanceInput" oninput="cambiarBalance(this.value)" class="balance" >
+                </div>
+    
+                <h1>Resultado</h1>
+                <div class="balanceDiv">
+                    <div class="detector" id="resultado"></div>
+                    <p id="colorResultadoP"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
