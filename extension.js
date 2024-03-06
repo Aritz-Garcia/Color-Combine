@@ -1,27 +1,27 @@
 const vscode = require('vscode');
 
 function activate(context) {
-	const textProvider = new WebViewProvider();
+	const textProvider = new WebViewProviderCastellano();
 	vscode.window.registerWebviewViewProvider('color-combine', textProvider);
 }
 
-class WebViewProvider {
+class WebViewProviderCastellano {
 	resolveWebviewView(webviewView, context, token) {
 		webviewView.webview.options = {
 			enableScripts: true,
 		};
 
-		webviewView.webview.html = getWebviewContent(webviewView.webview);
+		webviewView.webview.html = getWebviewContentCast();
 	}
 }
 
-function getWebviewContent() {
-	return `<!DOCTYPE html>
-			<html lang="es">
+function getWebviewContentCast() {
+	return `
+		<!DOCTYPE html>
+		<html lang="es">
 			<head>
 				<meta charset="UTF-8">
 				<meta name="viewport" content="width=device-width, initial-scale=1.0">
-				<title>Document</title>
 				<style>
 					body {
 						display: flex;
@@ -42,6 +42,7 @@ function getWebviewContent() {
 					
 					.balance {
 						width: min-content;
+						text-align: center;
 					}
 					
 					.balanceDiv {
@@ -147,8 +148,8 @@ function getWebviewContent() {
 					}
 				</script>
 			</body>
-			</html>
-`;
+		</html>
+	`;
 }
 
 function deactivate() {}
