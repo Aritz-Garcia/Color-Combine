@@ -13,6 +13,7 @@ body {
 
 .balance {
     width: min-content;
+    text-align: center;
 }
 
 .balanceDiv {
