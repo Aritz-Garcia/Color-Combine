@@ -1,24 +1,24 @@
 const vscode = require('vscode');
 
 function activate(context) {
-	const textProvider = new WebViewProviderCastellano();
+	const textProvider = new WebViewProviderEng();
 	vscode.window.registerWebviewViewProvider('color-combine', textProvider);
 }
 
-class WebViewProviderCastellano {
+class WebViewProviderEng {
 	resolveWebviewView(webviewView, context, token) {
 		webviewView.webview.options = {
 			enableScripts: true,
 		};
 
-		webviewView.webview.html = getWebviewContentCast();
+		webviewView.webview.html = getWebviewContentEng();
 	}
 }
 
-function getWebviewContentCast() {
+function getWebviewContentEng() {
 	return `
 		<!DOCTYPE html>
-		<html lang="es">
+		<html lang="en">
 			<head>
 				<meta charset="UTF-8">
 				<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -102,13 +102,13 @@ function getWebviewContentCast() {
 							<button id="btnHsl" class="botonesColor">HSL</button>
 						</div>
 						<div class="col-md-12">
-							<h2>Primer color:</h2>
+							<h2>First color:</h2>
 							<div class="balanceDiv">
 								<input type="color" value="#FF7F00" id="colorUno" class="detector" oninput="cambiar()" />
 								<h4 id="colorUnoP" class="textos"></h4>
 							</div>
 				
-							<h2>Segundo color:</h2>
+							<h2>Second color:</h2>
 							<div class="balanceDiv">
 								<input type="color" value="#007BFF" id="colorDos" class="detector" oninput="cambiar()" />
 								<h4 id="colorDosP" class="textos"></h4>
@@ -120,7 +120,7 @@ function getWebviewContentCast() {
 								<input type="number" min="0" max="100" value="50" name="balance" id="balanceInput" oninput="cambiarBalance(this.value)" class="balance" >
 							</div>
 				
-							<h2>Resultado:</h2>
+							<h2>Result:</h2>
 							<div class="balanceDiv">
 								<div class="detector" id="resultado"></div>
 								<h4 id="colorResultadoP" class="textos"></h4>
