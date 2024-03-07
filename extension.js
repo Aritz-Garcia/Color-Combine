@@ -26,7 +26,7 @@ function getWebviewContentEng() {
 					body {
 						display: flex;
 						justify-content: center;
-						min-width: 270px;
+						min-width: 265px;
 					}
 
 					h2, h4 {
