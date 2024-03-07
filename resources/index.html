@@ -14,29 +14,34 @@
 <body>
     <div class="container">
         <div class="row">
+            <div class="btnMedio">
+                <button id="btnHex" class="botonesColor">HEX</button>
+                <button id="btnRgb" class="botonesColor">RGB</button>
+                <button id="btnHsl" class="botonesColor">HSL</button>
+            </div>
             <div class="col-md-12">
-                <h1>Primer color</h1>
+                <h2>Primer color:</h2>
                 <div class="balanceDiv">
-                    <input type="color" value="#ff0000" id="colorUno" class="detector" oninput="cambiar()" />
-                    <p id="colorUnoP"></p>
+                    <input type="color" value="#ffffff" id="colorUno" class="detector" oninput="cambiar()" />
+                    <h4 id="colorUnoP" class="textos"></h4>
                 </div>
     
-                <h1>Segundo color</h1>
+                <h2>Segundo color:</h2>
                 <div class="balanceDiv">
                     <input type="color" value="#000000" id="colorDos" class="detector" oninput="cambiar()" />
-                    <p id="colorDosP"></p>
+                    <h4 id="colorDosP" class="textos"></h4>
                 </div>
     
-                <h1>Balance</h1>
+                <h2>Balance:</h2>
                 <div class="balanceDiv">
                     <input type="range" min="0" max="100" value="50" class="detector" id="balance" oninput="cambiarBalance(this.value)" />
                     <input type="number" min="0" max="100" value="50" name="balance" id="balanceInput" oninput="cambiarBalance(this.value)" class="balance" >
                 </div>
     
-                <h1>Resultado</h1>
+                <h2>Resultado:</h2>
                 <div class="balanceDiv">
                     <div class="detector" id="resultado"></div>
-                    <p id="colorResultadoP"></p>
+                    <h4 id="colorResultadoP" class="textos"></h4>
                 </div>
             </div>
         </div>
