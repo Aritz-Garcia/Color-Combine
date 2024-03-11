@@ -1,6 +1,11 @@
 # Color Combine
 <!-- Vs code Marketplace downloads -->
-[![GitHub issues](https://img.shields.io/github/issues/Aritz-Garcia/Color-Combine)](https://github.com/Aritz-Garcia/Color-Combine/issues) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Aritz-Garcia/Color-Combine)](https://github.com/Aritz-Garcia/Color-Combine/issues) 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![GitHub forks](https://img.shields.io/github/forks/Aritz-Garcia/color-combine
+)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/Aritz-Garcia/color-combine
+)](https://github.com/Aritz-Garcia/Color-Combine/pulls)
 
 <img src="resources/img/icono.png" alt="icono" style="width: 250px">
 
