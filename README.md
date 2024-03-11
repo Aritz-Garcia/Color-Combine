@@ -1,6 +1,9 @@
 # Color Combine
+<div align="center">
 <!-- Vs code Marketplace downloads -->
-[![GitHub issues](https://img.shields.io/github/issues/Aritz-Garcia/Color-Combine)](https://github.com/Aritz-Garcia/Color-Combine/issues) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Aritz-Garcia/Color-Combine)](https://github.com/Aritz-Garcia/Color-Combine/issues)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+</div>
 
 <img src="resources/img/icono.png" alt="icono" style="width: 250px">
 
