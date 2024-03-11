@@ -6,5 +6,8 @@
 
 Color Combine it's an extension for visual studio code to combine colors.
 
+## Contributing 🧩
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details of the code of conduct, and the process for submitting pull requests.
+
 ## License 📄
 This project is under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
