@@ -13,7 +13,7 @@ Color Combine it's an extension for visual studio code to combine colors.
 There are two different ways to install:
 
 ### Downloading it from VS Code Marketplace:
-- From the Marketplace link: "URL".
+- From the Marketplace link: [Color Combine](https://marketplace.visualstudio.com/items?itemName=Aritz-Garciaa.color-combine).
 - Entering the Marketplace section of VS Code and searching for Color Combine.
 
 ### Downloading it from the repository:
