@@ -5,7 +5,7 @@
 [![GitHub PRs](https://img.shields.io/github/issues-pr/Aritz-Garcia/color-combine
 )](https://github.com/Aritz-Garcia/Color-Combine/pulls)
 
-<img src="https://github.com/Aritz-Garcia/Color-Combine/tree/main/resources/img/icono.png" alt="icono" style="width: 250px">
+<img src="resources/img/icono.png" alt="icono" style="width: 250px">
 
 Color Combine it's an extension for visual studio code to combine colors.
 
