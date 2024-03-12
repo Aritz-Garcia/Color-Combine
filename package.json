@@ -2,7 +2,7 @@
   "name": "color-combine",
   "displayName": "color-combine",
   "description": "It's an extension for visual studio code to combine colors",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "Aritz-Garcia",
   "engines": {
     "vscode": "^1.87.0"
