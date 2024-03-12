@@ -18,7 +18,7 @@ There are two different ways to install:
 
 ### Downloading it from the repository:
 
-1. **Clone the repository:** To clone the repository, on the machine where you want to download the project, you will have to enter the command `git clone <REPOSITORY URL>`. The "repository url" is obtained by clicking the green "Code" button at the top right of the repository.
+1. **Clone the repository:** To clone the repository, on the machine where you want to download the project, you will have to enter the command `git clone https://github.com/Aritz-Garcia/Color-Combine`.
 2. **Install dependencies:** To install dependencies you will have to enter the `npm install` command.
 3. **Execute the code:** To execute the code there are different ways:
 - By opening VS Code with the repository and clicking the `F5` button.
