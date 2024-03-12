@@ -1,9 +1,10 @@
 {
   "name": "color-combine",
   "displayName": "Color Combine",
+  "icon": "../resources/img/icono_marketplace.png",
   "description": "It's an extension for visual studio code to combine colors",
   "version": "1.0.1",
-  "publisher": "Aritz-Garcia",
+  "publisher": "Aritz-Garciaa",
   "repository": {
     "url": "https://github.com/Aritz-Garcia/Color-Combine"
   },
