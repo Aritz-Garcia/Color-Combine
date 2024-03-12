@@ -66,26 +66,26 @@ function getWebviewContentEng() {
 						border-radius: 5px;
 						border: 2px solid black;
 						font-weight: bold;
-						background-color: #FF7F00;
+						background-color: #0C7C5F;
 						cursor: pointer;
 					}
 					
 					.hover {
 						animation: botonesAnim 0.5s;
-						background-color: #007BFF;
+						background-color: #DAECE7;
 					}
 					
 					@keyframes botonesAnim {
 						0% {
-							background-color: #FF7F00;
+							background-color: #0C7C5F;
 						}
 						100% {
-							background-color: #007BFF;
+							background-color: #DAECE7;
 						}
 					}
 					
 					.active {
-						background-color: #007BFF;
+						background-color: #DAECE7;
 					}
 					
 					.textos {
@@ -104,13 +104,13 @@ function getWebviewContentEng() {
 						<div class="col-md-12">
 							<h2>First color:</h2>
 							<div class="balanceDiv">
-								<input type="color" value="#FF7F00" id="colorUno" class="detector" oninput="cambiar()" />
+								<input type="color" value="#0C7C5F" id="colorUno" class="detector" oninput="cambiar()" />
 								<h4 id="colorUnoP" class="textos"></h4>
 							</div>
 				
 							<h2>Second color:</h2>
 							<div class="balanceDiv">
-								<input type="color" value="#007BFF" id="colorDos" class="detector" oninput="cambiar()" />
+								<input type="color" value="#DAECE7" id="colorDos" class="detector" oninput="cambiar()" />
 								<h4 id="colorDosP" class="textos"></h4>
 							</div>
 				
