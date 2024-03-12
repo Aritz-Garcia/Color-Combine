@@ -5,7 +5,7 @@
 [![GitHub PRs](https://img.shields.io/github/issues-pr/Aritz-Garcia/color-combine
 )](https://github.com/Aritz-Garcia/Color-Combine/pulls)
 
-<img src="resources/img/icono.png" alt="icono" style="width: 250px">
+<img src="https://github.com/Aritz-Garcia/Color-Combine/tree/main/resources/img/icono.png" alt="icono" style="width: 250px">
 
 Color Combine it's an extension for visual studio code to combine colors.
 
@@ -28,7 +28,7 @@ There are two different ways to install:
 > This second option is only for testing. To download the extension you have to do it with the first option.
 
 ## Contributing 🧩 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details of the code of conduct, and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/Aritz-Garcia/Color-Combine/tree/main/CONTRIBUTING.md) for details of the code of conduct, and the process for submitting pull requests.
 
 ## License 📄
-This project is under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is under the MIT License - see the [LICENSE.md](https://github.com/Aritz-Garcia/Color-Combine/tree/main/LICENSE.md) file for details
