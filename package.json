@@ -4,6 +4,9 @@
   "description": "It's an extension for visual studio code to combine colors",
   "version": "1.0.1",
   "publisher": "Aritz-Garcia",
+  "repository": {
+    "url": "https://github.com/Aritz-Garcia/Color-Combine"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
