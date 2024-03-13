@@ -1,9 +1,11 @@
 # Color Combine
-<!-- Vs code Marketplace downloads -->
+[![Marketplace installs](https://img.shields.io/visual-studio-marketplace/i/Aritz-Garciaa.color-combine?logo=visualstudiocode&logoColor=%23007ACC
+)](https://marketplace.visualstudio.com/items?itemName=Aritz-Garciaa.color-combine)
+[![Marketplace rating](https://img.shields.io/visual-studio-marketplace/stars/Aritz-Garciaa.color-combine?logo=visualstudiocode&logoColor=%23007ACC
+)](https://marketplace.visualstudio.com/items?itemName=Aritz-Garciaa.color-combine)
 [![GitHub issues](https://img.shields.io/github/issues/Aritz-Garcia/Color-Combine)](https://github.com/Aritz-Garcia/Color-Combine/issues) 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub PRs](https://img.shields.io/github/issues-pr/Aritz-Garcia/color-combine
-)](https://github.com/Aritz-Garcia/Color-Combine/pulls)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/Aritz-Garcia/color-combine)](https://github.com/Aritz-Garcia/Color-Combine/pulls)
 
 <img src="resources/img/icono.png" alt="icono" style="width: 250px">
 
@@ -32,3 +34,9 @@ Please read [CONTRIBUTING.md](https://github.com/Aritz-Garcia/Color-Combine/tree
 
 ## License 📄
 This project is under the MIT License - see the [LICENSE.md](https://github.com/Aritz-Garcia/Color-Combine/tree/main/LICENSE.md) file for details
+
+## Donations 💰
+If you want to contribute to the project you can do it in the following ways:
+
+[![Ko-fi](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-%23FF5E5B?style=for-the-badge&logo=kofi&logoColor=%23FFFFFF)](https://ko-fi.com/aritzgarcia)
+[![PayPal](https://img.shields.io/badge/PAYPAL-%23003087?style=for-the-badge&logo=PayPal&logoColor=%23FFFFFF)](https://www.paypal.com/paypalme/aritzgarcia30)
