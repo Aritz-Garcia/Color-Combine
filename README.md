@@ -1,6 +1,6 @@
 # Color Combine
-[![Marketplace installs](https://img.shields.io/visual-studio-marketplace/i/Aritz-Garciaa.color-combinee?logo=visualstudiocode&logoColor=%23007ACC)](https://marketplace.visualstudio.com/items?itemName=Aritz-Garciaa.color-combinee)
-[![Marketplace rating](https://img.shields.io/visual-studio-marketplace/stars/Aritz-Garciaa.color-combinee?logo=visualstudiocode&logoColor=%23007ACC)](https://marketplace.visualstudio.com/items?itemName=Aritz-Garciaa.color-combinee)
+[![Marketplace installs](https://img.shields.io/visual-studio-marketplace/i/Aritz-Garciaa.color--combine?logo=visualstudiocode&logoColor=%23007ACC)](https://marketplace.visualstudio.com/items?itemName=Aritz-Garciaa.color--combine)
+[![Marketplace rating](https://img.shields.io/visual-studio-marketplace/stars/Aritz-Garciaa.color--combine?logo=visualstudiocode&logoColor=%23007ACC)](https://marketplace.visualstudio.com/items?itemName=Aritz-Garciaa.color--combine)
 [![GitHub issues](https://img.shields.io/github/issues/Aritz-Garcia/Color-Combine)](https://github.com/Aritz-Garcia/Color-Combine/issues) 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub PRs](https://img.shields.io/github/issues-pr/Aritz-Garcia/color-combine)](https://github.com/Aritz-Garcia/Color-Combine/pulls)
@@ -13,7 +13,7 @@ Color Combine it's an extension for visual studio code to combine colors.
 There are two different ways to install:
 
 ### Downloading it from VS Code Marketplace:
-- From the Marketplace link: [Color Combine](https://marketplace.visualstudio.com/items?itemName=Aritz-Garciaa.color-combinee).
+- From the Marketplace link: [Color Combine](https://marketplace.visualstudio.com/items?itemName=Aritz-Garciaa.color--combine).
 - Entering the Marketplace section of VS Code and searching for Color Combine.
 
 ### Downloading it from the repository:
